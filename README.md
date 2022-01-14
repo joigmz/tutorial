@@ -71,7 +71,9 @@ Copiar link y clonar en nuestro computador el repo
 ```
 git clone "[link]"
 ```
+
 * Ejemplo:
+
 ```
 git clone https://github.com/joigmz/tutorial.git
 ```
