@@ -62,11 +62,13 @@ cd ..
 Ejemplo de como utilizar git y github.
 
 1. Crear repositorio  
-Apretar boton new  
-<img src="fotos/crear.png" alt="Crear repositorio" width="200"/>  
+El repositorio se creara en la organización o usuario que este seleccionado.  
+<img src="fotos/crear2.png" alt="Crear repositorio" width="200"/>  
+Para crear repo hay que hacer click en new  
+<img src="fotos/crear3.png" alt="Crear repositorio" width="200"/>  
 
 2. Clonar repositorio  
-Copiar link y clonar en nuestro computador el repo  
+Luego de crear el repo debemos copiar el link y clonar en nuestro computador  
 <img src="fotos/clonar.png" alt="Crear repositorio" width="200"/>  
 
 ```
