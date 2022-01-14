@@ -68,6 +68,7 @@ Apretar boton new
 2. Clonar repositorio  
 Copiar link y clonar en nuestro computador el repo  
 <img src="fotos/clonar.png" alt="Crear repositorio" width="200"/>  
+
 ```
 git clone "[link]"
 ```
